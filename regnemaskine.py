@@ -7,7 +7,7 @@ class regnemaskine(object):
     res=1
     tal=1
     def __str__(self):
-        return('Min regnemaskine klasse')
+        return('Min regnemaskine klasse 1')
     def __init__(self, tal , res):
         self.res=res
       #  print(' ',self, ' ', res, ' ', tal)
